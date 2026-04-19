@@ -8,40 +8,1110 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Maps/\"",
-      "color": { "a": 1, "rgb": 16361509 }
+      "query": "tag:moc tag:experimental-and-cognitive-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 7474138
+      }
     },
     {
-      "query": "path:\"Topics/\"",
-      "color": { "a": 1, "rgb": 9323693 }
+      "query": "tag:moc tag:clinical-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 750298
+      }
     },
     {
-      "query": "[\"subfield\":\"Social Psychology\"]",
-      "color": { "a": 1, "rgb": 15158332 }
+      "query": "tag:moc tag:social-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 14289675
+      }
     },
     {
-      "query": "[\"subfield\":\"Clinical Psychology\"]",
-      "color": { "a": 1, "rgb": 1482885 }
+      "query": "tag:moc tag:applied-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 776887
+      }
     },
     {
-      "query": "[\"subfield\":\"Experimental and Cognitive Psychology\"]",
-      "color": { "a": 1, "rgb": 2600544 }
+      "query": "tag:moc tag:developmental-and-educational-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 776715
+      }
     },
     {
-      "query": "[\"subfield\":\"Developmental and Educational Psychology\"]",
-      "color": { "a": 1, "rgb": 15965202 }
+      "query": "tag:moc tag:general-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 14335499
+      }
     },
     {
-      "query": "[\"subfield\":\"Applied Psychology\"]",
-      "color": { "a": 1, "rgb": 2719929 }
+      "query": "tag:moc tag:neuropsychology-and-physiological-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 14316043
+      }
     },
     {
-      "query": "[\"subfield\":\"Neuropsychology and Physiological Psychology\"]",
-      "color": { "a": 1, "rgb": 13047173 }
+      "query": "tag:topic tag:anxiety-depression-psychometrics-treatment-cognitive-processes",
+      "color": {
+        "a": 1,
+        "rgb": 5838492
+      }
     },
     {
-      "query": "[\"subfield\":\"General Psychology\"]",
-      "color": { "a": 1, "rgb": 6323595 }
+      "query": "tag:topic tag:categorization-perception-and-language",
+      "color": {
+        "a": 1,
+        "rgb": 6035361
+      }
+    },
+    {
+      "query": "tag:topic tag:cognitive-abilities-and-testing",
+      "color": {
+        "a": 1,
+        "rgb": 6231974
+      }
+    },
+    {
+      "query": "tag:topic tag:cognitive-functions-and-memory",
+      "color": {
+        "a": 1,
+        "rgb": 6428843
+      }
+    },
+    {
+      "query": "tag:topic tag:creativity-in-education-and-neuroscience",
+      "color": {
+        "a": 1,
+        "rgb": 6625713
+      }
+    },
+    {
+      "query": "tag:topic tag:diverse-academia-and-research-topics",
+      "color": {
+        "a": 1,
+        "rgb": 6822582
+      }
+    },
+    {
+      "query": "tag:topic tag:diversity-and-impact-of-dance",
+      "color": {
+        "a": 1,
+        "rgb": 7019195
+      }
+    },
+    {
+      "query": "tag:topic tag:education-achievement-and-giftedness",
+      "color": {
+        "a": 1,
+        "rgb": 7216064
+      }
+    },
+    {
+      "query": "tag:topic tag:emotion-and-mood-recognition",
+      "color": {
+        "a": 1,
+        "rgb": 7412934
+      }
+    },
+    {
+      "query": "tag:topic tag:evolutionary-psychology-and-human-behavior",
+      "color": {
+        "a": 1,
+        "rgb": 7609803
+      }
+    },
+    {
+      "query": "tag:topic tag:language-metaphor-and-cognition",
+      "color": {
+        "a": 1,
+        "rgb": 7806416
+      }
+    },
+    {
+      "query": "tag:topic tag:memory-trauma-and-testimony",
+      "color": {
+        "a": 1,
+        "rgb": 8003285
+      }
+    },
+    {
+      "query": "tag:topic tag:mental-health-research-topics",
+      "color": {
+        "a": 1,
+        "rgb": 8200155
+      }
+    },
+    {
+      "query": "tag:topic tag:multisensory-perception-and-integration",
+      "color": {
+        "a": 1,
+        "rgb": 8397279
+      }
+    },
+    {
+      "query": "tag:topic tag:phenomenology-and-existential-philosophy",
+      "color": {
+        "a": 1,
+        "rgb": 8595168
+      }
+    },
+    {
+      "query": "tag:topic tag:philosophy-and-theoretical-science",
+      "color": {
+        "a": 1,
+        "rgb": 8793056
+      }
+    },
+    {
+      "query": "tag:topic tag:phonetics-and-phonology-research",
+      "color": {
+        "a": 1,
+        "rgb": 8990945
+      }
+    },
+    {
+      "query": "tag:topic tag:psychological-and-educational-research-studies",
+      "color": {
+        "a": 1,
+        "rgb": 9188834
+      }
+    },
+    {
+      "query": "tag:topic tag:psychological-and-temporal-perspectives-research",
+      "color": {
+        "a": 1,
+        "rgb": 9386979
+      }
+    },
+    {
+      "query": "tag:topic tag:psychology-research-and-bibliometrics",
+      "color": {
+        "a": 1,
+        "rgb": 9584867
+      }
+    },
+    {
+      "query": "tag:topic tag:sleep-and-work-related-fatigue",
+      "color": {
+        "a": 1,
+        "rgb": 9782756
+      }
+    },
+    {
+      "query": "tag:topic tag:sleep-and-related-disorders",
+      "color": {
+        "a": 1,
+        "rgb": 9980645
+      }
+    },
+    {
+      "query": "tag:topic tag:sound-studies-and-aurality",
+      "color": {
+        "a": 1,
+        "rgb": 10178790
+      }
+    },
+    {
+      "query": "tag:topic tag:visual-and-cognitive-learning-processes",
+      "color": {
+        "a": 1,
+        "rgb": 10376678
+      }
+    },
+    {
+      "query": "tag:topic tag:body-image-and-dysmorphia-studies",
+      "color": {
+        "a": 1,
+        "rgb": 1464732
+      }
+    },
+    {
+      "query": "tag:topic tag:covid-19-and-mental-health",
+      "color": {
+        "a": 1,
+        "rgb": 1465247
+      }
+    },
+    {
+      "query": "tag:topic tag:child-abuse-and-trauma",
+      "color": {
+        "a": 1,
+        "rgb": 1531042
+      }
+    },
+    {
+      "query": "tag:topic tag:child-therapy-and-development",
+      "color": {
+        "a": 1,
+        "rgb": 1531557
+      }
+    },
+    {
+      "query": "tag:topic tag:child-and-adolescent-psychosocial-and-emotional-development",
+      "color": {
+        "a": 1,
+        "rgb": 1597609
+      }
+    },
+    {
+      "query": "tag:topic tag:counseling-therapy-and-family-dynamics",
+      "color": {
+        "a": 1,
+        "rgb": 1598124
+      }
+    },
+    {
+      "query": "tag:topic tag:eating-disorders-and-behaviors",
+      "color": {
+        "a": 1,
+        "rgb": 1664175
+      }
+    },
+    {
+      "query": "tag:topic tag:ego-development-and-educational-practices",
+      "color": {
+        "a": 1,
+        "rgb": 1664690
+      }
+    },
+    {
+      "query": "tag:topic tag:family-caregiving-in-mental-illness",
+      "color": {
+        "a": 1,
+        "rgb": 1730742
+      }
+    },
+    {
+      "query": "tag:topic tag:family-and-disability-support-research",
+      "color": {
+        "a": 1,
+        "rgb": 1731001
+      }
+    },
+    {
+      "query": "tag:topic tag:gambling-behavior-and-treatments",
+      "color": {
+        "a": 1,
+        "rgb": 1731516
+      }
+    },
+    {
+      "query": "tag:topic tag:grief-bereavement-and-mental-health",
+      "color": {
+        "a": 1,
+        "rgb": 1797568
+      }
+    },
+    {
+      "query": "tag:topic tag:health-and-well-being-studies",
+      "color": {
+        "a": 1,
+        "rgb": 1798083
+      }
+    },
+    {
+      "query": "tag:topic tag:healthcare-decision-making-and-restraints",
+      "color": {
+        "a": 1,
+        "rgb": 1864134
+      }
+    },
+    {
+      "query": "tag:topic tag:historical-psychiatry-and-medical-practices",
+      "color": {
+        "a": 1,
+        "rgb": 1864649
+      }
+    },
+    {
+      "query": "tag:topic tag:historical-and-modern-theater-studies",
+      "color": {
+        "a": 1,
+        "rgb": 1930701
+      }
+    },
+    {
+      "query": "tag:topic tag:migration-health-and-trauma",
+      "color": {
+        "a": 1,
+        "rgb": 1931216
+      }
+    },
+    {
+      "query": "tag:topic tag:mindfulness-and-compassion-interventions",
+      "color": {
+        "a": 1,
+        "rgb": 1997011
+      }
+    },
+    {
+      "query": "tag:topic tag:obsessive-compulsive-spectrum-disorders",
+      "color": {
+        "a": 1,
+        "rgb": 1997526
+      }
+    },
+    {
+      "query": "tag:topic tag:perfectionism-procrastination-anxiety-studies",
+      "color": {
+        "a": 1,
+        "rgb": 2063578
+      }
+    },
+    {
+      "query": "tag:topic tag:personality-disorders-and-psychopathology",
+      "color": {
+        "a": 1,
+        "rgb": 2064093
+      }
+    },
+    {
+      "query": "tag:topic tag:personality-traits-and-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 2195679
+      }
+    },
+    {
+      "query": "tag:topic tag:posttraumatic-stress-disorder-research",
+      "color": {
+        "a": 1,
+        "rgb": 2392799
+      }
+    },
+    {
+      "query": "tag:topic tag:psychedelics-and-drug-studies",
+      "color": {
+        "a": 1,
+        "rgb": 2589920
+      }
+    },
+    {
+      "query": "tag:topic tag:psychiatric-care-and-mental-health-services",
+      "color": {
+        "a": 1,
+        "rgb": 2852320
+      }
+    },
+    {
+      "query": "tag:topic tag:psychoanalysis-and-psychopathology-research",
+      "color": {
+        "a": 1,
+        "rgb": 3049441
+      }
+    },
+    {
+      "query": "tag:topic tag:psychoanalysis-philosophy-and-politics",
+      "color": {
+        "a": 1,
+        "rgb": 3246561
+      }
+    },
+    {
+      "query": "tag:topic tag:psychological-treatments-and-assessments",
+      "color": {
+        "a": 1,
+        "rgb": 3443682
+      }
+    },
+    {
+      "query": "tag:topic tag:psychological-treatments-and-disorders",
+      "color": {
+        "a": 1,
+        "rgb": 3706338
+      }
+    },
+    {
+      "query": "tag:topic tag:psychology-and-mental-health",
+      "color": {
+        "a": 1,
+        "rgb": 3903459
+      }
+    },
+    {
+      "query": "tag:topic tag:psychopathy-forensic-psychiatry-sexual-offending",
+      "color": {
+        "a": 1,
+        "rgb": 4100579
+      }
+    },
+    {
+      "query": "tag:topic tag:psychotherapy-techniques-and-applications",
+      "color": {
+        "a": 1,
+        "rgb": 4297443
+      }
+    },
+    {
+      "query": "tag:topic tag:resilience-and-mental-health",
+      "color": {
+        "a": 1,
+        "rgb": 4560100
+      }
+    },
+    {
+      "query": "tag:topic tag:semiotics-and-cultural-interpretation",
+      "color": {
+        "a": 1,
+        "rgb": 4757220
+      }
+    },
+    {
+      "query": "tag:topic tag:sexuality-behavior-and-technology",
+      "color": {
+        "a": 1,
+        "rgb": 4954341
+      }
+    },
+    {
+      "query": "tag:topic tag:stuttering-research-and-treatment",
+      "color": {
+        "a": 1,
+        "rgb": 5151461
+      }
+    },
+    {
+      "query": "tag:topic tag:suicide-and-self-harm-studies",
+      "color": {
+        "a": 1,
+        "rgb": 5414118
+      }
+    },
+    {
+      "query": "tag:topic tag:transactional-analysis-in-psychotherapy",
+      "color": {
+        "a": 1,
+        "rgb": 5611238
+      }
+    },
+    {
+      "query": "tag:topic tag:action-observation-and-synchronization",
+      "color": {
+        "a": 1,
+        "rgb": 10229270
+      }
+    },
+    {
+      "query": "tag:topic tag:adventure-sports-and-sensation-seeking",
+      "color": {
+        "a": 1,
+        "rgb": 10360342
+      }
+    },
+    {
+      "query": "tag:topic tag:animal-and-plant-science-education",
+      "color": {
+        "a": 1,
+        "rgb": 10491414
+      }
+    },
+    {
+      "query": "tag:topic tag:attachment-and-relationship-dynamics",
+      "color": {
+        "a": 1,
+        "rgb": 10688279
+      }
+    },
+    {
+      "query": "tag:topic tag:bullying-victimization-and-aggression",
+      "color": {
+        "a": 1,
+        "rgb": 10819351
+      }
+    },
+    {
+      "query": "tag:topic tag:cognitive-and-psychological-constructs-research",
+      "color": {
+        "a": 1,
+        "rgb": 11016216
+      }
+    },
+    {
+      "query": "tag:topic tag:color-perception-and-design",
+      "color": {
+        "a": 1,
+        "rgb": 11147288
+      }
+    },
+    {
+      "query": "tag:topic tag:communication-in-education-and-healthcare",
+      "color": {
+        "a": 1,
+        "rgb": 11278360
+      }
+    },
+    {
+      "query": "tag:topic tag:competency-development-and-evaluation",
+      "color": {
+        "a": 1,
+        "rgb": 11475225
+      }
+    },
+    {
+      "query": "tag:topic tag:contemporary-cultural-and-social-studies",
+      "color": {
+        "a": 1,
+        "rgb": 11606297
+      }
+    },
+    {
+      "query": "tag:topic tag:counseling-practices-and-supervision",
+      "color": {
+        "a": 1,
+        "rgb": 11737369
+      }
+    },
+    {
+      "query": "tag:topic tag:cultural-differences-and-values",
+      "color": {
+        "a": 1,
+        "rgb": 11934234
+      }
+    },
+    {
+      "query": "tag:topic tag:death-anxiety-and-social-exclusion",
+      "color": {
+        "a": 1,
+        "rgb": 12065306
+      }
+    },
+    {
+      "query": "tag:topic tag:deception-detection-and-forensic-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 12196378
+      }
+    },
+    {
+      "query": "tag:topic tag:education-healthcare-and-sociology-research",
+      "color": {
+        "a": 1,
+        "rgb": 12393243
+      }
+    },
+    {
+      "query": "tag:topic tag:emotional-intelligence-and-performance",
+      "color": {
+        "a": 1,
+        "rgb": 12524315
+      }
+    },
+    {
+      "query": "tag:topic tag:emotions-and-moral-behavior",
+      "color": {
+        "a": 1,
+        "rgb": 12655387
+      }
+    },
+    {
+      "query": "tag:topic tag:ergonomics-and-musculoskeletal-disorders",
+      "color": {
+        "a": 1,
+        "rgb": 12852252
+      }
+    },
+    {
+      "query": "tag:topic tag:facilities-and-workplace-management",
+      "color": {
+        "a": 1,
+        "rgb": 12983324
+      }
+    },
+    {
+      "query": "tag:topic tag:families-in-therapy-and-culture",
+      "color": {
+        "a": 1,
+        "rgb": 13179932
+      }
+    },
+    {
+      "query": "tag:topic tag:forgiveness-and-related-behaviors",
+      "color": {
+        "a": 1,
+        "rgb": 13311261
+      }
+    },
+    {
+      "query": "tag:topic tag:grit-self-efficacy-and-motivation",
+      "color": {
+        "a": 1,
+        "rgb": 13442333
+      }
+    },
+    {
+      "query": "tag:topic tag:health-education-and-physical-culture",
+      "color": {
+        "a": 1,
+        "rgb": 13638941
+      }
+    },
+    {
+      "query": "tag:topic tag:health-work-and-social-studies-in-poland",
+      "color": {
+        "a": 1,
+        "rgb": 13770270
+      }
+    },
+    {
+      "query": "tag:topic tag:human-automation-interaction-and-safety",
+      "color": {
+        "a": 1,
+        "rgb": 13901342
+      }
+    },
+    {
+      "query": "tag:topic tag:humor-studies-and-applications",
+      "color": {
+        "a": 1,
+        "rgb": 14097950
+      }
+    },
+    {
+      "query": "tag:topic tag:jungian-analytical-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 14229279
+      }
+    },
+    {
+      "query": "tag:topic tag:lgbtq-health-identity-and-policy",
+      "color": {
+        "a": 1,
+        "rgb": 14360351
+      }
+    },
+    {
+      "query": "tag:topic tag:leadership-courage-and-heroism-studies",
+      "color": {
+        "a": 1,
+        "rgb": 14556959
+      }
+    },
+    {
+      "query": "tag:topic tag:memory-trauma-and-commemoration",
+      "color": {
+        "a": 1,
+        "rgb": 14623009
+      }
+    },
+    {
+      "query": "tag:topic tag:memory-violence-and-history",
+      "color": {
+        "a": 1,
+        "rgb": 14623523
+      }
+    },
+    {
+      "query": "tag:topic tag:mental-health-treatment-and-access",
+      "color": {
+        "a": 1,
+        "rgb": 14689830
+      }
+    },
+    {
+      "query": "tag:topic tag:mental-health-via-writing",
+      "color": {
+        "a": 1,
+        "rgb": 14690344
+      }
+    },
+    {
+      "query": "tag:topic tag:mentoring-and-academic-development",
+      "color": {
+        "a": 1,
+        "rgb": 14690858
+      }
+    },
+    {
+      "query": "tag:topic tag:motivation-and-self-concept-in-sports",
+      "color": {
+        "a": 1,
+        "rgb": 14757165
+      }
+    },
+    {
+      "query": "tag:topic tag:music-therapy-and-health",
+      "color": {
+        "a": 1,
+        "rgb": 14757679
+      }
+    },
+    {
+      "query": "tag:topic tag:neuroendocrine-regulation-and-behavior",
+      "color": {
+        "a": 1,
+        "rgb": 14758193
+      }
+    },
+    {
+      "query": "tag:topic tag:nostalgia-and-consumer-behavior",
+      "color": {
+        "a": 1,
+        "rgb": 14824500
+      }
+    },
+    {
+      "query": "tag:topic tag:outdoor-and-experiential-education",
+      "color": {
+        "a": 1,
+        "rgb": 14825014
+      }
+    },
+    {
+      "query": "tag:topic tag:paranormal-experiences-and-beliefs",
+      "color": {
+        "a": 1,
+        "rgb": 14825785
+      }
+    },
+    {
+      "query": "tag:topic tag:physical-education-and-sports-games-research",
+      "color": {
+        "a": 1,
+        "rgb": 14891835
+      }
+    },
+    {
+      "query": "tag:topic tag:primate-behavior-and-ecology",
+      "color": {
+        "a": 1,
+        "rgb": 14892349
+      }
+    },
+    {
+      "query": "tag:topic tag:psychological-well-being-and-life-satisfaction",
+      "color": {
+        "a": 1,
+        "rgb": 14893120
+      }
+    },
+    {
+      "query": "tag:topic tag:psychology-coaching-and-therapy",
+      "color": {
+        "a": 1,
+        "rgb": 14959170
+      }
+    },
+    {
+      "query": "tag:topic tag:recreation-leisure-wilderness-management",
+      "color": {
+        "a": 1,
+        "rgb": 14959684
+      }
+    },
+    {
+      "query": "tag:topic tag:safety-warnings-and-signage",
+      "color": {
+        "a": 1,
+        "rgb": 14960455
+      }
+    },
+    {
+      "query": "tag:topic tag:social-representations-and-identity",
+      "color": {
+        "a": 1,
+        "rgb": 15026505
+      }
+    },
+    {
+      "query": "tag:topic tag:social-robot-interaction-and-hri",
+      "color": {
+        "a": 1,
+        "rgb": 15027019
+      }
+    },
+    {
+      "query": "tag:topic tag:stress-and-burnout-research",
+      "color": {
+        "a": 1,
+        "rgb": 15027790
+      }
+    },
+    {
+      "query": "tag:topic tag:team-dynamics-and-performance",
+      "color": {
+        "a": 1,
+        "rgb": 15093840
+      }
+    },
+    {
+      "query": "tag:topic tag:technostress-in-professional-settings",
+      "color": {
+        "a": 1,
+        "rgb": 15094611
+      }
+    },
+    {
+      "query": "tag:topic tag:workaholism-burnout-and-well-being",
+      "color": {
+        "a": 1,
+        "rgb": 15095125
+      }
+    },
+    {
+      "query": "tag:topic tag:behavioral-health-and-interventions",
+      "color": {
+        "a": 1,
+        "rgb": 1481861
+      }
+    },
+    {
+      "query": "tag:topic tag:coaching-methods-and-impact",
+      "color": {
+        "a": 1,
+        "rgb": 1683607
+      }
+    },
+    {
+      "query": "tag:topic tag:digital-mental-health-interventions",
+      "color": {
+        "a": 1,
+        "rgb": 1885352
+      }
+    },
+    {
+      "query": "tag:topic tag:human-behavior-and-motivation",
+      "color": {
+        "a": 1,
+        "rgb": 2021561
+      }
+    },
+    {
+      "query": "tag:topic tag:human-resource-development-and-performance-evaluation",
+      "color": {
+        "a": 1,
+        "rgb": 3006915
+      }
+    },
+    {
+      "query": "tag:topic tag:optimism-hope-and-well-being",
+      "color": {
+        "a": 1,
+        "rgb": 4318152
+      }
+    },
+    {
+      "query": "tag:topic tag:psychological-testing-and-assessment",
+      "color": {
+        "a": 1,
+        "rgb": 5629646
+      }
+    },
+    {
+      "query": "tag:topic tag:behavioral-and-psychological-studies",
+      "color": {
+        "a": 1,
+        "rgb": 1481750
+      }
+    },
+    {
+      "query": "tag:topic tag:child-and-animal-learning-development",
+      "color": {
+        "a": 1,
+        "rgb": 1548823
+      }
+    },
+    {
+      "query": "tag:topic tag:children-s-physical-and-motor-development",
+      "color": {
+        "a": 1,
+        "rgb": 1615896
+      }
+    },
+    {
+      "query": "tag:topic tag:educational-games-and-gamification",
+      "color": {
+        "a": 1,
+        "rgb": 1683225
+      }
+    },
+    {
+      "query": "tag:topic tag:educational-strategies-and-epistemologies",
+      "color": {
+        "a": 1,
+        "rgb": 1684761
+      }
+    },
+    {
+      "query": "tag:topic tag:educational-and-psychological-assessments",
+      "color": {
+        "a": 1,
+        "rgb": 1751834
+      }
+    },
+    {
+      "query": "tag:topic tag:educational-methodologies-and-cognitive-development",
+      "color": {
+        "a": 1,
+        "rgb": 1819163
+      }
+    },
+    {
+      "query": "tag:topic tag:flow-experience-in-various-fields",
+      "color": {
+        "a": 1,
+        "rgb": 1886236
+      }
+    },
+    {
+      "query": "tag:topic tag:hearing-impairment-and-communication",
+      "color": {
+        "a": 1,
+        "rgb": 1953309
+      }
+    },
+    {
+      "query": "tag:topic tag:identity-memory-and-therapy",
+      "color": {
+        "a": 1,
+        "rgb": 2020638
+      }
+    },
+    {
+      "query": "tag:topic tag:innovative-teaching-and-learning-methods",
+      "color": {
+        "a": 1,
+        "rgb": 2087711
+      }
+    },
+    {
+      "query": "tag:topic tag:language-acquisition-and-education",
+      "color": {
+        "a": 1,
+        "rgb": 2285346
+      }
+    },
+    {
+      "query": "tag:topic tag:language-development-and-disorders",
+      "color": {
+        "a": 1,
+        "rgb": 2744361
+      }
+    },
+    {
+      "query": "tag:topic tag:learning-styles-and-cognitive-differences",
+      "color": {
+        "a": 1,
+        "rgb": 3137839
+      }
+    },
+    {
+      "query": "tag:topic tag:psychology-of-development-and-education",
+      "color": {
+        "a": 1,
+        "rgb": 3531317
+      }
+    },
+    {
+      "query": "tag:topic tag:reading-and-literacy-development",
+      "color": {
+        "a": 1,
+        "rgb": 3990332
+      }
+    },
+    {
+      "query": "tag:topic tag:science-education-and-perceptions",
+      "color": {
+        "a": 1,
+        "rgb": 4383810
+      }
+    },
+    {
+      "query": "tag:topic tag:second-language-acquisition-and-learning",
+      "color": {
+        "a": 1,
+        "rgb": 4777032
+      }
+    },
+    {
+      "query": "tag:topic tag:sport-psychology-and-performance",
+      "color": {
+        "a": 1,
+        "rgb": 5236047
+      }
+    },
+    {
+      "query": "tag:topic tag:student-stress-and-coping",
+      "color": {
+        "a": 1,
+        "rgb": 5629525
+      }
+    },
+    {
+      "query": "tag:topic tag:academic-and-historical-perspectives-in-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 14664991
+      }
+    },
+    {
+      "query": "tag:topic tag:aging-and-gerontology-research",
+      "color": {
+        "a": 1,
+        "rgb": 10246422
+      }
+    },
+    {
+      "query": "tag:topic tag:developmental-and-educational-neuropsychology",
+      "color": {
+        "a": 1,
+        "rgb": 15113813
+      }
+    },
+    {
+      "query": "tag:paper tag:experimental-and-cognitive-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 11702484
+      }
+    },
+    {
+      "query": "tag:paper tag:clinical-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 9482964
+      }
+    },
+    {
+      "query": "tag:paper tag:social-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 13930640
+      }
+    },
+    {
+      "query": "tag:paper tag:applied-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 9491657
+      }
+    },
+    {
+      "query": "tag:paper tag:developmental-and-educational-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 9491600
+      }
+    },
+    {
+      "query": "tag:paper tag:general-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 13945744
+      }
+    },
+    {
+      "query": "tag:paper tag:neuropsychology-and-physiological-psychology",
+      "color": {
+        "a": 1,
+        "rgb": 13939344
+      }
     }
   ],
   "collapse-display": false,
