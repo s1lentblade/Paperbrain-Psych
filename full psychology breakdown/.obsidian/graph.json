@@ -5,8 +5,45 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Maps/\"",
+      "color": { "a": 1, "rgb": 16361509 }
+    },
+    {
+      "query": "path:\"Topics/\"",
+      "color": { "a": 1, "rgb": 9323693 }
+    },
+    {
+      "query": "[\"subfield\":\"Social Psychology\"]",
+      "color": { "a": 1, "rgb": 15158332 }
+    },
+    {
+      "query": "[\"subfield\":\"Clinical Psychology\"]",
+      "color": { "a": 1, "rgb": 1482885 }
+    },
+    {
+      "query": "[\"subfield\":\"Experimental and Cognitive Psychology\"]",
+      "color": { "a": 1, "rgb": 2600544 }
+    },
+    {
+      "query": "[\"subfield\":\"Developmental and Educational Psychology\"]",
+      "color": { "a": 1, "rgb": 15965202 }
+    },
+    {
+      "query": "[\"subfield\":\"Applied Psychology\"]",
+      "color": { "a": 1, "rgb": 2719929 }
+    },
+    {
+      "query": "[\"subfield\":\"Neuropsychology and Physiological Psychology\"]",
+      "color": { "a": 1, "rgb": 13047173 }
+    },
+    {
+      "query": "[\"subfield\":\"General Psychology\"]",
+      "color": { "a": 1, "rgb": 6323595 }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +54,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.01095299138887577,
+  "scale": 0.0078125,
   "close": true
 }
