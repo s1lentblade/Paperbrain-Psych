@@ -1,0 +1,10 @@
+{
+  "id": "paperbrain-db",
+  "name": "PaperBrain",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Browse and search 6.6M psychology papers from a local SQLite database.",
+  "author": "PaperBrain",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}

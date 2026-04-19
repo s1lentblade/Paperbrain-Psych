@@ -1,0 +1,37 @@
+# ---------------------------------------------------------------------------
+# Data artifacts (huge — regenerated from the pipeline)
+# ---------------------------------------------------------------------------
+data/by_year/
+data/db_parts/
+data/graphs/
+data/papers.db
+data/papers.db-shm
+data/papers.db-wal
+data/progress.json
+data/*.log
+data/*.pid
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---------------------------------------------------------------------------
+# Editor / OS
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------------------
+# Obsidian workspace state (keep config, drop per-machine state)
+# ---------------------------------------------------------------------------
+full psychology breakdown/.obsidian/workspace.json
+full psychology breakdown/.obsidian/workspace-mobile.json
+full psychology breakdown/.obsidian/cache

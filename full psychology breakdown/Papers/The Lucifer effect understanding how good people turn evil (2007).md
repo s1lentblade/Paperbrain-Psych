@@ -1,0 +1,25 @@
+---
+title: "The Lucifer effect: understanding how good people turn evil"
+authors: []
+tags: [exemplar, paper, social-psychology]
+year: 2007
+doi: "https://doi.org/10.5860/choice.45-1153"
+citations: 1570
+topic: "Leadership, Courage, and Heroism Studies"
+subfield: "Social Psychology"
+---
+
+# The Lucifer effect: understanding how good people turn evil
+
+**Year:** 2007
+**Citations:** 1,570
+**DOI:** https://doi.org/10.5860/choice.45-1153
+
+## Abstract
+
+How well do we really know anyone? How well do we really know ourselves? Are those who commit atrocities people with serious character defects or psychopathology, or are they ordinary people responding to an extraordinary situation? How many times, in the course of our ordinary lives, have we been surprised to learn about the actions of someone we thought we knew well? The Lucifer Effect provides some possible explanations for this phenomenon, as well as for those of us who have been involved in cultic groups or other situations in which we were, in retrospect, baffled by our own actions, which contradicted our previous notions of our identities. The author, eminent social psychologist Philip Zimbardo, elaborates in-depth on a lifetime he has dedicated, as a professor at Stanford Universit
+
+## Topics
+
+- [[Leadership, Courage, and Heroism Studies]]
+- [[Social Psychology]]

@@ -1,0 +1,29 @@
+---
+title: "Utility of a new procedure for diagnosing mental disorders in primary care. The PRIME-MD 1000 study"
+authors: ["Robert L. Spitzer"]
+tags: [paper, social-psychology]
+year: 1994
+doi: "https://doi.org/10.1001/jama.272.22.1749"
+citations: 2325
+topic: "Mental Health Treatment and Access"
+subfield: "Social Psychology"
+openalex_id: "https://openalex.org/W4249539254"
+---
+
+# Utility of a new procedure for diagnosing mental disorders in primary care. The PRIME-MD 1000 study
+
+**Authors:** Robert L. Spitzer
+**Year:** 1994
+**Citations:** 2,325
+**DOI:** https://doi.org/10.1001/jama.272.22.1749
+
+## Abstract
+
+<h3>Objective.</h3> —To assess the validity and utility of PRIME-MD (Primary Care Evaluation of Mental Disorders), a new rapid procedure for diagnosing mental disorders by primary care physicians. <h3>Design.</h3> —Survey; criterion standard. <h3>Setting.</h3> —Four primary care clinics. <h3>Subjects.</h3> —A total of 1000 adult patients (369 selected by convenience and 631 selected by site-specific methods to avoid sampling bias) assessed by 31 primary care physicians. <h3>Main Outcome Measures.</h3> —PRIME-MD diagnoses, independent diagnoses made by mental health professionals, functional status measures (Short-Form General Health Survey), disability days, health care utilization, and trea
+
+## Topics
+
+- [[Mental Health Treatment and Access]]
+- [[Child and Adolescent Psychosocial and Emotional Development]]
+- [[Schizophrenia research and treatment]]
+- [[Social Psychology]]
