@@ -44,7 +44,7 @@ surface over the whole field.
  │                      │                 │  /bridges /health        │
  │  ~20 k stratified    │                 │                          │
  │  markdown notes      │                 │  queried by Obsidian     │
- │  Maps · Topics ·     │ ◀──plugin──────▶│  plugin "PaperBrain"     │
+ │  Maps · Topics ·     │ ◀───plugin───▶ │  plugin "PaperBrain"     │
  │  Papers · Graphs     │                 │  (sidebar search, top-   │
  │                      │                 │   cited lists, related,  │
  │                      │                 │   topic deep-dives)      │
