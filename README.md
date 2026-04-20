@@ -6,6 +6,10 @@ stratified papers with a **local SQLite backend** of the full 6.6M, stitched
 together by an Obsidian plugin that turns the sidebar into a live query
 surface over the whole field.
 
+![Obsidian graph view of the psychology vault — 20k papers, 4k topics, colored by subfield](docs/graph-view.png)
+
+*Obsidian graph view: the 20 k stratified papers + 4.2 k topic nodes, colored by subfield. Larger nodes are higher-citation topics.*
+
 > ⚠️ **This is a single-subject build (Psychology).** Repo name: [`s1lentblade/Paperbrain-Psych`](https://github.com/s1lentblade/Paperbrain-Psych).
 > It is *not* a generic/pluggable framework — the generators, the subfield
 > layout, and the graph palette are all tuned for OpenAlex field `32`
